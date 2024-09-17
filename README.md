@@ -15,7 +15,8 @@ go run main.go
         file (default "path to the alignment file")
   -title string
         gene name (default "name of the header of the gene")
-[gauravsablok@fedora]~/Desktop/codecreatede/goroutines-alignment-clipper% go run main.go -alignmentfile ./sample-files/alignment.go.fasta -title merged
+[gauravsablok@fedora]~/Desktop/codecreatede/goroutines-alignment-clipper% \
+      go run main.go -alignmentfile ./sample-files/alignment.go.fasta -title merged
 > merged
 ATG.....
 
