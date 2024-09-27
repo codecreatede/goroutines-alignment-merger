@@ -1,4 +1,4 @@
-goroutines-alignment-merger
+# goroutines-alignment-merger
 
 - large scale alignment merger for phylogenomics.
 - a large phylogenomics datasets merged in less than few minutes for the genome scale alignment.
